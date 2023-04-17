@@ -24,5 +24,8 @@ O código possui um menu com opções para inserção, busca e remoção de func
 ## Tecnologias Utilizadas
 C
 
+## Autor
+Esta implementação da Árvore B em disco foi desenvolvida por oalvarobraz
+
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Leia o arquivo LICENSE para obter mais informações.
